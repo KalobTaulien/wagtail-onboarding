@@ -1,0 +1,15 @@
+*.pyc
+/build
+/dist
+/wagtail_onboarding.egg-info
+/.coverage
+/htmlcov
+/.tox
+/venv
+/.vscode
+/site
+/test_wagtail_onboarding.db
+/node_modules
+/test-static
+/test-media
+.DS_Store

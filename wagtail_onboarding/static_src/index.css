@@ -1,0 +1,21 @@
+.wagtail-handlebars-support {
+    display: inline-block;
+    position: fixed;
+    bottom: 3rem;
+    right: 3rem;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    background-color: #333;
+    font-weight: bold;
+    box-shadow: 0 0 10px #000;
+    border: 1px solid #000;
+    z-index: 1000;
+}
+
+.wagtail-handlebars-support:hover {
+    background-color: #444;
+}
