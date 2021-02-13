@@ -2,6 +2,11 @@
 
 Adds a tour guide to the Wagtail admin to help editors understand all their options, Wagtail features, and how to move around.
 
+> **WIP WARNING**: This is a work in progress and just slightly beyond a "proof of concept". If you run into bugs or interesting scenarios where the tour breaks, please open an Issue with as many details as possible.
+
+## Demo
+![Tour Preview](images/preview.gif)
+
 ## Installation
 
 1. `pip install wagtail-onboarding`
